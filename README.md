@@ -4,6 +4,7 @@
 **viztastic/viztastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 Flow Bench - follow my journey on twitter.com/AhmedsFlow 
@@ -25,4 +26,4 @@ Flow Bench - follow my journey on twitter.com/AhmedsFlow
 * ahmed
 - ⚡ Fun fact: ...
 * I'm not a dev... just know enough to be dangerous :) 
--->
+
