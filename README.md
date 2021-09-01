@@ -31,5 +31,5 @@ Flow Bench - follow my journey on twitter.com/AhmedsFlow
 * twitter.com/AhmedsFlow
 
 ⚡ Fun fact: ...
-* I'm not "actually" a dev (I sweart!) just know enough to be dangerous :) 
+* I'm not "actually" a dev (I swear!) just know enough to be dangerous :) 
 
