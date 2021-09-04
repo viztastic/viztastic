@@ -10,7 +10,7 @@ Flow Bench - follow my journey on [twitter.com/AhmedsFlow](http://twitter.com/Ah
 * WebGL
 
 🤔 I’m looking for ...
-* Consulting gigs to bootstrap my way (I put in 110% into anything I commit to)
+* Product, Marketing, Tech or consulting gigs to bootstrap my way (I put in 110% into anything I commit to)
 * CTO who appreciates DDD and scalable architecture
 * Engineers
 * Rustaceans
