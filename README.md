@@ -24,7 +24,7 @@ Flow Bench - follow my journey on [twitter.com/AhmedsFlow](http://twitter.com/Ah
 * Tech
 
 📫 How to reach me: ...
-* twitter.com/AhmedsFlow
+* [twitter.com/AhmedsFlow](http://twitter.com/AhmedsFlow)
 
 ⚡ Fun fact: ...
 * I'm not "actually" a dev (I swear!) just know enough to be dangerous :) 
