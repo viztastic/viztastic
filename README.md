@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on ...
 
-Flow Bench - follow my journey on [twitter.com/AhmedsFlow](http://twitter.com/AhmedsFlow)
+**Flow Bench** - follow my journey on [twitter.com/AhmedsFlow](http://twitter.com/AhmedsFlow)
 
 🌱 I’m currently learning ...
 * Rust Lang
