@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-<!--
-**viztastic/viztastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 🔭 I’m currently working on ...
 
-Flow Bench - follow my journey on twitter.com/AhmedsFlow 
+Flow Bench - follow my journey on [twitter.com/AhmedsFlow](http://twitter.com/AhmedsFlow)
 
 🌱 I’m currently learning ...
 * Rust Lang
@@ -16,8 +10,9 @@ Flow Bench - follow my journey on twitter.com/AhmedsFlow
 * WebGL
 
 🤔 I’m looking for ...
-* CTOs
-* Architects
+* Consulting gigs to bootstrap my way (I put in 110% into anything I commit to)
+* CTO who appreciates DDD and scalable architecture
+* Engineers
 * Rustaceans
 * Product Designers
 * VCs
