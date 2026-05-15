@@ -1,31 +1,76 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
+Product, technology and transformation leader exploring the intersection of:
 
-  **Flow Bench** - follow my journey on [twitter.com/AhmedsFlow](http://twitter.com/AhmedsFlow)
+- AI
 
-🌱 I’m currently learning ...
-* Rust Lang
-* Deno
-* WebGL
+- embedded systems
 
-🤔 I’m looking for ...
-* Product, Marketing, Tech or consulting gigs to bootstrap my way (I put in 110% into anything I commit to)
-* CTO who appreciates DDD and scalable architecture
+- operating models
+
+- product strategy
+
+- software engineering
+
+- revenue systems
+
+Currently building:
+
+## 🚀 Revenue in a Box
+
+Designing end-to-end revenue operating systems that connect:
+
+pipeline → CRM → delivery → finance → reporting
+
+🌐 https://revinabox.com
+
+
+## 🌱 Currently Learning
+- C
+
+- Assembly
+
+- Embedded Systems
+
+- Rust
+
+- AI engineering & agents
+
+- Systems programming
+  
+- Unreal Engine
+
+## 💡 Interested In
+
+- Product & transformation leadership
+
+- AI-native operating models
+
+- Embedded/IoT products
+
+- Startup collaboration
+
+- Interesting technical problems
+
+- Operator-led businesses
+
+## 🤔 I’m looking for
+* Product, Transformation, Marketing, Tech or consulting roles
 * Engineers
 * Rustaceans
 * Product Designers
 * VCs
 
-💬 Ask me about ...
+## 💬 Ask me about 
 * Product
+* Revenue Ops
+* Sales Ops
 * Design
 * Startups
 * Tech
 
-📫 How to reach me: ...
-* [twitter.com/AhmedsFlow](http://twitter.com/AhmedsFlow)
+## 📫 How to reach me: 
+* linkedin.com/in/AhmedDhahbi
 
-⚡ Fun fact: ...
-* I'm not "actually" a dev (I swear!) just know enough to be dangerous :) 
-
+## ⚡ Fun fact: 
+* I regularly host startup nights with founders, operators and engineers to pressure-test ideas, products and business models.
